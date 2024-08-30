@@ -54,7 +54,8 @@
     "start": "concurrently \"rollup -c -w\" \"serve docs\"",
     "build": "rollup -c",
     "lint": "prettier -w src/",
-    "test": "ava"
+    "test": "ava",
+    "prepare": "npm run build"
   },
   "ava": {
     "extensions": {
