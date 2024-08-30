@@ -20,7 +20,7 @@
       "import": "./dist/*.css"
     }
   },
-  "repository": "https://github.com/quill-mention/quill-mention.git",
+  "repository": "https://github.com/samhannan/quill-mention.git",
   "author": "Fredrik Sundqvist <fsundqvist@gmail.com>",
   "license": "MIT",
   "files": [
